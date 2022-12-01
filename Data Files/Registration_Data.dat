@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Registration Data for Employees</description>
+   <name>Registration_Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>08aa5209-4352-4625-8379-4606d37e5ccf</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Karan+Sharma sharma.karan20%40gmail.com Mumbai Jaipur</data>
+   <data>Abdul+Azam azabdul.31%40yahoo.com Pune Delhi</data>
+   <data>Swati+Katham hydswati22%40gmail.com Kochin Hydrabad</data>
+   <data>Neha+Kashik iamnehak%40outlook.com Patna Kohima</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>UserName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>UserEmail</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>CurrentAddress</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>PermanentAddress</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
